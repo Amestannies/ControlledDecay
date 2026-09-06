@@ -4,8 +4,8 @@ An interactive dashboard visualizing a longitudinal photo dataset of a decaying 
 
 *Status: In active development and update. Schema and architecture below reflect what was the current build; live demo and dataset will be added after the project is finished updating. See Mockup below:*
 
-<img width="986" height="754" alt="image" src="https://github.com/user-attachments/assets/4af874d3-5257-4d84-bdd2-34cb74f05e62" />
-
+## Mockup
+<img width="986" height="758" alt="image" src="https://github.com/user-attachments/assets/2e65b9f0-7171-4d29-9700-7848df6fe8fe" />
 
 ## Tech Stack
 React · Figma · MySQL · REST API · AWS RDS
